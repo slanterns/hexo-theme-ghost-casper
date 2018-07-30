@@ -683,7 +683,7 @@ code, tt {
     font-family: Inconsolata, monospace, sans-serif;
     font-size: 0.85em;
     white-space: pre-wrap;
-    border: #E3EDF3 1px solid;
+    border: none;
     background: #F7FAFB;
     border-radius: 2px;
 }
@@ -744,7 +744,7 @@ table td {
     line-height: 20px;
     text-align: left;
     vertical-align: top;
-    border-top: #EFEFEF 1px solid;
+    border-top: none;
 }
 
 table th { color: #000; }
